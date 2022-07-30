@@ -1,6 +1,6 @@
+F1::pause, toggle
 
-
-
+F::2
 Loop,
    {
      send ^v   
